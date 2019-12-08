@@ -1,1 +1,5 @@
 Basics of Neural Networks and the following videos: https://www.youtube.com/watch?v=aircAruvnKk
+Basics on a single page: https://adventuresinmachinelearning.com/neural-networks-tutorial/
+Improving the network: https://adventuresinmachinelearning.com/improve-neural-networks-part-1/
+
+
