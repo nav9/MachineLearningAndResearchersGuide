@@ -2,5 +2,6 @@ Basics of Neural Networks and the following videos: https://www.youtube.com/watc
 Basics on a single page: https://adventuresinmachinelearning.com/neural-networks-tutorial/
 Learning how to use Keras: https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37
 Improving the network: https://adventuresinmachinelearning.com/improve-neural-networks-part-1/
+CNN: https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
 
 
