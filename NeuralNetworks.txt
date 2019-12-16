@@ -5,4 +5,4 @@ Step by step. Baselining the model, building a small model and then moving on to
 Improving the network: https://adventuresinmachinelearning.com/improve-neural-networks-part-1/
 CNN: https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480
 Classification with Keras: https://medium.com/datadriveninvestor/building-neural-network-using-keras-for-classification-3a3656c726c1
-
+Choosing loss function: https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
