@@ -1,4 +1,5 @@
 Basics of Neural Networks and the following videos: https://www.youtube.com/watch?v=aircAruvnKk
+Misconceptions: https://medium.com/swlh/artificial-neural-network-some-misconceptions-cb93e80b34bb
 Basics on a single page: https://adventuresinmachinelearning.com/neural-networks-tutorial/
 Learning how to use Keras: https://towardsdatascience.com/building-a-deep-learning-model-using-keras-1548ca149d37
 Step by step. Baselining the model, building a small model and then moving on to a bigger model: https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/
