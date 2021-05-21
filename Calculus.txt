@@ -1,1 +1,2 @@
 The essence of calculus and the videos that follow: https://www.youtube.com/watch?v=WUvTyaaNkzM
+Eigen: https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47
