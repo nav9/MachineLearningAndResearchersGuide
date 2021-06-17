@@ -9,3 +9,4 @@ Classification with Keras: https://medium.com/datadriveninvestor/building-neural
 Choosing loss function: https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/
 Restricted Boltzmann machines: https://www.youtube.com/watch?v=puux7KZQfsE
 Deep Belief Networks: https://www.youtube.com/watch?v=E2Mt_7qked0
+Attention: https://distill.pub/2016/augmented-rnns/
