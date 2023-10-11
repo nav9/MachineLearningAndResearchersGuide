@@ -3,3 +3,5 @@ A repository that makes the most helpful information available to people in the 
 Having to search through multiple search results to find the best sources of knowledge is cumbersome. This repository will lead you directly to the best possible information that can help you.
 
 The researchers guide offers multiple files that will guide you on how to do research and how to get your work published.
+
+  [![Donate](https://raw.githubusercontent.com/nav9/VCF_contacts_merger/main/gallery/thankYouDonateButton.png)](https://nrecursions.blogspot.com/2020/08/saying-thank-you.html)  
